@@ -1,6 +1,6 @@
 # 📈 Customer Churn Analysis of Telecom Company
 
-This project focuses on understanding customer churn, which refers to the rate at which customers end their subscriptions. Using data analysis and visualization techniques, we aim to identify patterns and reasons for churn, providing actionable insights for retention strategies.
+This project focuses on understanding customer churn, which refers to the rate at which customers end their subscriptions. Using data analysis and visualization techniques, I aim to identify patterns and reasons for churn, providing actionable insights for retention strategies.
 
 ---
 
