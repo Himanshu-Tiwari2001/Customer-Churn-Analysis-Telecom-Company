@@ -74,5 +74,4 @@ This project focuses on understanding customer churn, which refers to the rate a
 
 ---
 
-## 📂 Project Structure
 
